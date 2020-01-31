@@ -1,0 +1,9 @@
+
+FOur rooms set up tried to make setup.Once it was running but after some time there was some problem with env.step functions.
+There are 2 main terminal condition corresponding to each prson
+
+
+References:
+
+most of ideas borrowed from Arushi's Dqn cartpole problem .Apart from that for Options problem taken suggestions from TA's although due to some problem in step function it was not learning as it is giving same next stage but initially it was working fine.
+
