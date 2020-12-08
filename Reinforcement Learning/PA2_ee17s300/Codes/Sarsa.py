@@ -22,9 +22,6 @@ epiB = []
 epiC = []
 
 
-
-
-
 #Environment A
 env = gym.make('FooEnv-v0')
 env.reset()

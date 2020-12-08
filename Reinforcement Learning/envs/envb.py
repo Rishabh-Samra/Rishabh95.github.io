@@ -2,7 +2,7 @@ import numpy as np
 import gym
 import pyglet
 import matplotlib.pyplot as plt
-from gym import error,spaces, utils
+from gym import error,spacess, utils
 from gym.utils import seeding
 from gym.envs.registration import registry, register, make, spec
 from gym.envs.classic_control import rendering
