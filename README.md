@@ -1,2 +1,2 @@
 # Rishabh95.github.io
-I am a Graduate Student at IIT Madras 
+I am a MS(Research) scholar at IIT Madras 
